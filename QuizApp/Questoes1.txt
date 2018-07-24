@@ -1,0 +1,23 @@
+﻿POO - Definições básicas
+5
+VF 5
+Um objeto é a instância de uma classe. (V/F)
+V
+ME 10
+Dizer que a classe A especializa a classe B é o mesmo que dizer que:
+5
+a classe B é subclasse de A
+a classe A é superclasse de B
+a classe A é subclasse de B
+a classe B é derivada de A
+a classe B é abstrata
+C
+RC 20
+Uma classe que não pode instanciar objetos é uma classe?
+Abstrata
+RC 20
+Quando devemos ter atributos públicos em uma classe?
+Nunca
+VF 5
+Interface sempre substitui herança. (V/F)
+F
